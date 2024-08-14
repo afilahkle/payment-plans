@@ -1,3 +1,5 @@
+import PlansPage from './plans/page';
+
 export default function Home() {
-  return <></>;
+  return <PlansPage />;
 }
